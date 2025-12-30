@@ -27,6 +27,17 @@ Busca **registro**.
 
 ---
 
+## Princípio central
+
+O mais importante não é a resposta.
+
+O mais importante é **a pergunta que escolhemos fazer**.
+
+Como humanidade, temos o poder de ditar as perguntas —  
+sejam quais forem.
+
+---
+
 ## Como funciona
 
 - Qualquer pessoa pode comentar uma pergunta.
@@ -115,11 +126,12 @@ Como observação.
 
 ---
 
-## Princípio central
+## Uso de meios pagos para alcance e viabilização do experimento
 
-O mais importante não é a resposta.
+Em alguns momentos, o alcance inicial do experimento pode ser ampliado por meios pagos.
 
-O mais importante é **a pergunta que escolhemos fazer**.
+Esse uso não tem finalidade comercial, não gera retorno financeiro e não direciona perguntas ou respostas.
 
-Como humanidade, temos o poder de ditar as perguntas —  
-sejam quais forem.
+O custo é arcado integralmente por quem conduz o experimento, sem expectativa de retorno, com o único objetivo de tornar o registro possível.
+
+Esse uso também faz parte do experimento e do seu registro.
