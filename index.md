@@ -20,7 +20,7 @@ A resposta é observada.
 Leia o documento que define o propósito, o método  
 e os limites deste experimento:
 
-→ [Manifesto — O Que Perguntamos](./README.md)
+→ [Manifesto — O Que Perguntamos](./manifesto/README.md)
 
 ---
 
