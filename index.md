@@ -30,4 +30,4 @@ Os diálogos entre um ser humano e uma inteligência artificial
 fazem parte do experimento e são publicados integralmente.
 
 → [Diálogos públicos](./dialogs/README.md)
-
+ 
