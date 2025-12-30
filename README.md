@@ -135,3 +135,23 @@ Esse uso não tem finalidade comercial, não gera retorno financeiro e não dire
 O custo é arcado integralmente por quem conduz o experimento, sem expectativa de retorno, com o único objetivo de tornar o registro possível.
 
 Esse uso também faz parte do experimento e do seu registro.
+
+---
+
+## Rastreabilidade, transparência e auditabilidade do experimento
+
+O manifesto e os documentos deste experimento são mantidos em um sistema de versionamento auditável, onde cada alteração fica registrada com histórico, data e contexto.
+
+Esse sistema permite acompanhar publicamente a evolução do método, dos princípios e das decisões ao longo do tempo.
+
+O repositório público integra o próprio experimento e faz parte do seu registro.
+
+Repositório: https://github.com/oqueperguntamos/o-que-perguntamos
+
+Além disso, todas as decisões conceituais, metodológicas e operacionais do experimento são discutidas em diálogos públicos entre um ser humano e uma inteligência artificial.
+
+Esses diálogos são publicados integralmente por meio de links públicos, permitindo auditar não apenas o que foi decidido, mas como as decisões foram construídas ao longo do tempo.
+
+Os links para essas sessões de diálogo integram o repositório público e fazem parte do registro do experimento.
+
+Dessa forma, o experimento torna auditáveis o método, as mudanças e o próprio processo reflexivo.
