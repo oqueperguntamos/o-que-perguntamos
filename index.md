@@ -14,6 +14,12 @@ O perfil não interfere.
 A resposta é observada.
 
 ---
+## Perguntas feitas e respostas
+
+As perguntas feitas e suas respostas estão no link abaixo, procure pelo nome do usuário que perguntou ou pelo número da pergunta
+
+→ [Perguntas e Respostas](./perguntas/index.md)
+
 
 ## Manifesto
 
