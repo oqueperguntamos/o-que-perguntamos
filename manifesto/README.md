@@ -44,7 +44,7 @@ sejam quais forem.
 - As perguntas são eleitas pela maioria, por meio de curtidas.
 - O perfil não interfere, edita, prioriza ou sugere perguntas.
 - A pergunta mais votada é a pergunta eleita.
-- Além da mais votada, observamos a pergunta que representa a mediana das interações.
+- Caso haja empate, a mais recente é eleita.
 
 O coletivo decide o que perguntar.
 
