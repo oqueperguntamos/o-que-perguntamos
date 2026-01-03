@@ -8,9 +8,14 @@ gerados pela funcionalidade de compartilhamento do ChatGPT.
 
 Cada link representa um recorte temporal do processo reflexivo.
 
+Há dois tipos de diálogo, o diálogo de administração, planejamento e execução do experimento e o diálogo das perguntas eleitas.
+
 ---
 
-## Diálogos
+## Diálogo das perguntas eleitas
+- [Diálogo das perguntas eleitas](https://chatgpt.com/share/695885cd-a7e0-8000-882c-012b10615e9d)
+
+## Diálogos de administração e planejamento do experimento
 
 - 27e 28 de Dezembro de 2025 [Diálogo fundador — concepção do experimento](https://chatgpt.com/share/695028d7-0f28-8000-879b-59bbdda65dac)
 - 29 de Dezembro de 2025 [Utilização de tráfego pago para alcance do experimento](https://chatgpt.com/share/695028d7-0f28-8000-879b-59bbdda65dac)

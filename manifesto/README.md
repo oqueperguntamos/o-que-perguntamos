@@ -5,7 +5,7 @@ Este é um experimento cultural.
 Vivemos uma época em que respostas são abundantes, instantâneas e amplamente distribuídas.  
 Raramente, porém, paramos para observar **quais perguntas escolhemos fazer** quando temos essa possibilidade.
 
-Este projeto existe para registrar, em tempo próximo ao real,  
+Este projeto existe para registrar,  
 as perguntas que emergem do coletivo —  
 não como curiosidades isoladas,  
 mas como reflexo do pensamento de uma época.
@@ -55,6 +55,7 @@ O coletivo decide o que perguntar.
 
 - Os diálogos resultam da interação entre um ser humano e uma inteligência artificial.
 - Elas refletem o estado atual da tecnologia disponível e do conhecimento humano nela incorporado.
+- Os diálogos estão divididos em dois tipos: diálogo de administração, planejamento e execução do experimento; diálogo das perguntas eleitas
 - Os diálogos não são tratados como verdades, orientações ou conclusões.
 - O maior valor do experimento está na pergunta eleita, mas o diálogo também é um objeto de observação.
 
@@ -108,6 +109,8 @@ como registro da interação humano–tecnologia desta época.
 Novos links públicos são disponibilizados periodicamente,  
 permitindo acompanhar a evolução do pensamento por trás do projeto.
 
+Você pode encontrar todos os diálogos [aqui](https://oqueperguntamos.github.io/o-que-perguntamos/dialogs/)
+
 ---
 
 ## Observações ao longo do tempo
@@ -148,7 +151,7 @@ Repositório: https://github.com/oqueperguntamos/o-que-perguntamos
 
 Além disso, todas as decisões conceituais, metodológicas e operacionais do experimento são discutidas em diálogos públicos entre um ser humano e uma inteligência artificial.
 
-Esses diálogos são publicados integralmente por meio de links públicos, permitindo auditar não apenas o que foi decidido, mas como as decisões foram construídas ao longo do tempo.
+Esses diálogos são publicados integralmente por meio de [links públicos](https://oqueperguntamos.github.io/o-que-perguntamos/dialogs/), permitindo auditar não apenas o que foi decidido, mas como as decisões foram construídas ao longo do tempo.
 
 Os links para essas sessões de diálogo integram o repositório público e fazem parte do registro do experimento.
 
