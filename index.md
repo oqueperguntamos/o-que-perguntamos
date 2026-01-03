@@ -18,7 +18,7 @@ O diálogo humano e inteligência artificial é observado.
 
 As perguntas feitas e seus diálogos entre um humano e uma inteligência artificial estão no link abaixo, procure pelo nome do usuário que perguntou ou pelo número da pergunta
 
-→ [Perguntas e Respostas](./perguntas/index.md)
+→ [Perguntas e Diálogos](./perguntas/index.md)
 
 
 ## Manifesto
