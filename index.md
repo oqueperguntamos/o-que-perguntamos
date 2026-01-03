@@ -35,6 +35,7 @@ e os limites deste experimento:
 Os diálogos entre um ser humano e uma inteligência artificial,
 relacionados à execução e administração do experimento,
 fazem parte do experimento e são publicados integralmente.
+Assim como o diálogo sobre as perguntas eleitas.
 
 → [Diálogos públicos](./dialogs/README.md)
  
