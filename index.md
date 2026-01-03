@@ -14,7 +14,7 @@ O perfil não interfere.
 O diálogo humano e inteligência artificial é observado.
 
 ---
-## Diálogos
+## Perguntas e Diálogos
 
 As perguntas feitas e seus diálogos entre um humano e uma inteligência artificial estão no link abaixo, procure pelo nome do usuário que perguntou ou pelo número da pergunta
 
