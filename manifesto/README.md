@@ -45,19 +45,18 @@ sejam quais forem.
 - O perfil não interfere, edita, prioriza ou sugere perguntas.
 - A pergunta mais votada é a pergunta eleita.
 - Caso haja empate, a mais recente é eleita.
+- A pergunta vencedora é postada e o diálogo humano-IA a respeito da pergunta é publicado
 
 O coletivo decide o que perguntar.
 
 ---
 
-## Sobre as respostas
+## Sobre os Diálogos
 
-- As respostas são geradas por inteligência artificial.
-- Elas refletem o estado atual da tecnologia e do conhecimento humano disponível.
-- As respostas não são tratadas como verdades, orientações ou conclusões.
-- O valor do experimento está na pergunta eleita, não na resposta produzida.
-
-A resposta é observada como parte do contexto da época.
+- Os diálogos resultam da interação entre um ser humano e uma inteligência artificial.
+- Elas refletem o estado atual da tecnologia disponível e do conhecimento humano nela incorporado.
+- Os diálogos não são tratados como verdades, orientações ou conclusões.
+- O maior valor do experimento está na pergunta eleita, mas o diálogo também é um objeto de observação.
 
 ---
 
@@ -72,12 +71,12 @@ Perguntas eleitas que envolvam:
 - exploração,
 - ou violação de direitos,
 
-**não serão respondidas**.
+**não serão dialogadas**.
 
 A eleição da pergunta permanece registrada.  
-A não-resposta também faz parte do experimento.
+O não-diálogo também faz parte do experimento.
 
-Não responder não é interferir na pergunta.  
+Não dialogar não é interferir na pergunta.  
 É um limite ético mínimo.
 
 ---
@@ -88,7 +87,8 @@ Este perfil:
 - não julga perguntas,
 - não busca consenso,
 - não busca autoridade,
-- não busca engajamento artificial.
+- não busca engajamento artificial,
+- não busca retorno financeiro
 
 Ele registra, observa e documenta.
 
@@ -117,9 +117,7 @@ Este experimento não busca sentido imediato.
 Periodicamente, realizamos observações como:
 - leituras mensais,
 - comparações temporais,
-- o que mudou,
-- o que persistiu,
-- o que deixou de ser perguntado.
+- o que mudou
 
 Não como produto.  
 Como observação.

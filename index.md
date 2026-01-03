@@ -11,12 +11,12 @@ as perguntas que escolhemos fazer como coletivo.
 
 A pergunta é eleita pela maioria.  
 O perfil não interfere.  
-A resposta é observada.
+O diálogo humano e inteligência artificial é observado.
 
 ---
-## Perguntas feitas e respostas
+## Diálogos
 
-As perguntas feitas e suas respostas estão no link abaixo, procure pelo nome do usuário que perguntou ou pelo número da pergunta
+As perguntas feitas e seus diálogos entre um humano e uma inteligência artificial estão no link abaixo, procure pelo nome do usuário que perguntou ou pelo número da pergunta
 
 → [Perguntas e Respostas](./perguntas/index.md)
 
@@ -32,7 +32,8 @@ e os limites deste experimento:
 
 ## Diálogos públicos
 
-Os diálogos entre um ser humano e uma inteligência artificial  
+Os diálogos entre um ser humano e uma inteligência artificial,
+relacionados à execução e administração do experimento,
 fazem parte do experimento e são publicados integralmente.
 
 → [Diálogos públicos](./dialogs/README.md)
