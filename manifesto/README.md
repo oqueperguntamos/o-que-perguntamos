@@ -145,9 +145,9 @@ O manifesto e os documentos deste experimento são mantidos em um sistema de ver
 
 Esse sistema permite acompanhar publicamente a evolução do método, dos princípios e das decisões ao longo do tempo.
 
-O repositório público integra o próprio experimento e faz parte do seu registro.
+O [repositório público](https://github.com/oqueperguntamos/o-que-perguntamos) integra o próprio experimento e faz parte do seu registro.
 
-Repositório: https://github.com/oqueperguntamos/o-que-perguntamos
+[Clique aqui](https://github.com/oqueperguntamos/o-que-perguntamos) para acessar o repositório público
 
 Além disso, todas as decisões conceituais, metodológicas e operacionais do experimento são discutidas em diálogos públicos entre um ser humano e uma inteligência artificial.
 
