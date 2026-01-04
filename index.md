@@ -6,8 +6,7 @@ title: O Que Perguntamos
 
 Este é um experimento cultural.
 
-Registramos, em tempo próximo ao real,  
-as perguntas que escolhemos fazer como coletivo.
+Registramos, as perguntas que escolhemos fazer como coletivo.
 
 A pergunta é eleita pela maioria.  
 O perfil não interfere.  
